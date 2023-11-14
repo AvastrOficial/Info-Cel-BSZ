@@ -1,5 +1,4 @@
-![tumblr_inline_own9yzr9971sp1gah_540](https://github.com/AvastrOficial/Info-Cel-BSZ/assets/91764815/a429b189-c411-4a59-bced-3d25116ce768)
-
+![3HaJVw3AYyXBBQkN3tCkeqGDncZiRLVNg5Jyv5RiCGf2FwTABcit1xhtJHFnZQY1wJeLdYhkW5Hyc1YWUcekgFZAd9xsS8AxQmjUsSV](https://github.com/AvastrOficial/Info-Cel-BSZ/assets/91764815/e30ff90d-a06e-48f1-b144-acc349a9b06e)
 # Info-Cel-BSZ
 
 Es un proyecto diseñado para la búsqueda de información a través de la introducción de números de teléfono. Utilizando las bibliotecas proporcionadas por Google, este proyecto permite identificar y recopilar datos asociados con los números ingresados. La finalidad es proporcionar un identificador de mensajes directamente en tu navegador web, permitiéndote acceder a información relevante y detallada al ingresar un número de teléfono específico.
